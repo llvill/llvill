@@ -23,7 +23,7 @@ Computer Science Student, Web Developer, and Aspring Software Engineer
 * ✉️  You can contact me at [llavilla1@my.brookdalecc.edu](mailto:llavilla1@my.brookdalecc.edu)
 * 🧠  I'm learning Full Stack Web Development
 * 🤝  I'm open to collaborating on web applications and crypto applications
-* ⚡  When I'm not coding I like to fish, exercise, travel, and learn history
+* ⚡  When I'm not coding I like to fish, exercise, travel, learn history, and snowboard
 
 ### Skills
 
