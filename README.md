@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 Hi 👋 My name is Lucas LaVilla
 ==============================
 
-Computer Science Student, Web Developer, and Blockchain Developer
------------------------------------------------------------------
+Computer Science Student, Web Developer, and Aspring Software Engineer
+----------------------------------------------------------------------
 
 * 🌍  I'm based in New Jersey
-* ✉️  You can contact me at [lucaslavilla04@gmail.com](mailto:lucaslavilla04@gmail.com)
+* ✉️  You can contact me at [llavilla1@my.brookdalecc.edu](mailto:llavilla1@my.brookdalecc.edu)
 * 🧠  I'm learning Full Stack Web Development
 * 🤝  I'm open to collaborating on web applications and crypto applications
 * ⚡  When I'm not coding I like to fish, exercise, travel, and learn history
