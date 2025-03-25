@@ -20,7 +20,7 @@ Computer Science Student, Web Developer, and Aspring Software Engineer
 ----------------------------------------------------------------------
 
 * 🌍  I'm based in New Jersey
-* ✉️  You can contact me at [llavilla1@my.brookdalecc.edu](mailto:llavilla1@my.brookdalecc.edu)
+* ✉️  You can contact me at [lucaslavilla1007@gmail.com](mailto:lucaslavilla1007@gmail.com)
 * 🧠  I'm learning Full Stack Web Development
 * 🤝  I'm open to collaborating on web applications and crypto applications
 * ⚡  When I'm not coding I like to fish, exercise, travel, learn history, and snowboard
